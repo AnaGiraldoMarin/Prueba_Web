@@ -1,6 +1,6 @@
 <HTML>
 <title>Prueba Git</title>
 <body>
-Holi1
+Holi2
 </body>
-</
+</HTML>
