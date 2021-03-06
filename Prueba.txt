@@ -1,6 +1,12 @@
 <HTML>
 <title>Prueba Git</title>
 <body>
+<<<<<<< HEAD
 Holi1_2
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 2062e0ce5
+>>>>>>> master
 </body>
-</
+</HTML>
